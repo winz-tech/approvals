@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <!-- 這行會自動跳轉，保留著 -->
+    <meta http-equiv="refresh" content="0;url=https://script.google.com/a/macros/winz-tech.com/s/AKfycbzSn9xYdkf7bVZIaPe8XtrKMPdsdegPtV3kZZ72QJ44GJE9RHBal29SsE9K7ekREXUwWQ/exec?page=pending-approvals">
+    
+    <!-- 這裡加入顯示標題與縮圖的設定 -->
+    <title>穎利科技 咪姐簽核區</title>
+    <meta property="og:title" content="咪姐 簽核囉" />
+    <meta property="og:description" content="早安！咪姐，我們來簽核囉！" />
+    <meta property="og:image" content="https://winz-tech.github.io/BD/logo.png" />
+    <meta property="og:type" content="website" />
+</head>
+<body>
+    <p style="font-family:sans-serif;text-align:center;margin-top:40vh;color:#888">簽核奔跑中...</p>
+</body>
+</html>
